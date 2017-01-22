@@ -1,2 +1,3 @@
 # SpringBootDocker
-Dockerize  a SpringBoot application.
+Dockerize a SpringBoot application.
+Test local git environment.
